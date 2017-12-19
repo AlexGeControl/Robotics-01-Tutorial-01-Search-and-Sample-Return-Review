@@ -2,7 +2,7 @@
 
 ### Technical Report for Computer Vision Based Search and Sample Return
 
-<img src="writeup_images/00-rover-demo.jpg" width="100%" alt="Search and Sample Return using Autonomous Rover" />
+<img src="misc/rover_image.jpg" width="100%" alt="Search and Sample Return using Autonomous Rover" />
 
 ---
 
